@@ -1,0 +1,1 @@
+export const MAX_TIMESTAMP = 86400000000000;

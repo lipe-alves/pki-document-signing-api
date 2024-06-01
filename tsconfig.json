@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es2016" /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', or 'ESNEXT'. */,
+        "module": "commonjs" /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */,
+        "outDir": "./build/" /* Redirect output structure to the directory. */,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "strict": true /* Enable all strict type-checking options. */,
+        "inlineSourceMap": true /* Emit a single file with source maps instead of having a separate file. */,
+        "inlineSources": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "compileOnSave": true,
+    "include": ["src"]
+}
